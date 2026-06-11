@@ -1,5 +1,5 @@
 country = {
-  tag = GER
+  tag = HRL
   capital = 1
   manpower = 0
   energy = 0
@@ -18,5 +18,5 @@ country = {
   diplomacy = {
   }
 
-  SpyInfo = { country = "GER" NumberOfSpies = 0 }
+  SpyInfo = { country = "HRL" NumberOfSpies = 0 }
 }

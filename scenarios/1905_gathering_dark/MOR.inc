@@ -1,6 +1,6 @@
 country = {
-  tag = HOL
-  capital = 1011
+  tag = MOR
+  capital = 715
   manpower = 100
   energy = 2000
   metal = 1000
@@ -9,14 +9,14 @@ country = {
   supplies = 500
   money = 10
   transports = 20
-  ownedprovinces = { 1008 1009 1010 1011 1012 1013 }
-  controlledprovinces = { 1008 1009 1010 1011 1012 1013 }
-  nationalprovinces = { 1008 1009 1010 1011 1012 1013 }
+  ownedprovinces = { 715 716 717 718 719 720 721 722 723 724 725 726 }
+  controlledprovinces = { 715 716 717 718 719 720 721 722 723 724 725 726 }
+  nationalprovinces = { 715 716 717 718 719 720 721 722 723 724 725 726 }
 
   techapps = { 1010 1020 1030 1160 1170 1180 13060 13070 2290 2800 3010 3020 3110 3120 3410 3810 4500 5600 5700 6500 6510 8010 8020 27480 27490 }
 
   diplomacy = {
   }
 
-  SpyInfo = { country = "HOL" NumberOfSpies = 3 }
+  SpyInfo = { country = "MOR" NumberOfSpies = 3 }
 }
