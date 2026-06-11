@@ -4,7 +4,7 @@ panel      = "scenarios/1905_gathering_dark/scenario_1905.bmp"
 header =
 { name       = "The Gathering Dark"
   startdate  = { year = 1905 }
-  selectable = { ENG PRU NOR ALB POL HUN NAT TRP IRS HBK EIR PAP NOV KYV SCY ABY MOR HRL CRT MAM BLZ ASM SAM IBL MRD IFR UNM LIL }
+  selectable = { ENG PRU NOR ALB POL HUN SER U02 OTT HOL HON POR RUS UKR ROM ETH LUX GER BUL ITA GRE IRN SOV IRQ YUG SAU AFG PER }
 
   ENG = { desc = "The island fortress of the Holy League. England's navy commands the seas and her crusader tradition runs deep. Nine years before the Great Trench War, she must hold the western alliance together against rising Infernal pressure." }
   PRU = { desc = "The Free State of Prussia. A martial republic born from the ashes of the old German Empire. Prussia stands as the steel spine of Central European resistance, her armies forged in the crucible of constant border warfare." }
@@ -12,28 +12,28 @@ header =
   ALB = { desc = "The Kingdom of Alba. Scotland's ancient realm, independent and proud. Alba's highland warriors have held every Infernal advance that tried to use the northern route. They have never been broken." }
   POL = { desc = "The Polish-Lithuanian Commonwealth. Vast, fractious, and perpetually embattled on its eastern borders. Poland has fought demons longer than any western nation. They have learned things the west has not." }
   HUN = { desc = "The Kingdom of Hungary. The eastern shield of Europe. Hungary has borne the brunt of Infernal advances from the Balkans for two centuries. The Hungarians are exhausted, experienced, and absolutely necessary." }
-  NAT = { desc = "New Antioch. The last great crusader state, founded on the ruins of the Holy Land. New Antioch guards the most contested ground on earth — the place where the gates of Hell first opened. Every soldier here is a true believer." }
-  TRP = { desc = "The Trench Pilgrims. A nation built from those who would not stop fighting. The Pilgrims have no homeland — only the front. Fanatical, mobile, and uncountable, they are the Holy League's wild card." }
-  IRS = { desc = "The Iron Sultanate. A Muslim power that made its peace with the Holy League to fight the greater evil. The Sultanate's warriors have developed unique methods of fighting Infernal forces, born of long and bloody experience." }
-  HBK = { desc = "The Hebrew Knights. An ancient order reborn as a nation. The Knights guard the routes to Jerusalem with a ferocity that has broken every Infernal assault for three hundred years. They do not retreat. Ever." }
-  EIR = { desc = "Éire. The island of saints and scholars has become something else — a source of mystical resistance the Church barely understands. Irish monks hold knowledge of the Infernal that predates the First Heresy." }
-  PAP = { desc = "The Papal States. The spiritual heart of the Holy League and its most fractious member. The Pope commands souls, not always armies. Rome must convince, cajole, and occasionally threaten the alliance into coherence." }
-  NOV = { desc = "The Czardom of Novgorod. Russia fragmented after the eastern gates opened. Novgorod is the largest fragment — proudly Orthodox, deeply suspicious of Rome, and fighting a very different war on the eastern steppe." }
-  KYV = { desc = "The Principality of Kyiv. The old heart of Rus, now a battleground. Kyiv sits at the junction of Holy and Infernal advance, making deals with both sides to survive. A dangerous game, but they have played it for centuries." }
-  SCY = { desc = "The Scythians. The horseback warriors of the steppe have found new purpose defending the vast emptiness between the infernal east and the Christian west. No one knows the corrupted plains better than the Scythians." }
-  ABY = { desc = "Abyssinia. The ancient Christian kingdom of Africa has held its own against Infernal incursion for eight centuries through faith, terrain, and sheer stubbornness. The highlands are theirs. The lowlands are contested." }
-  MOR = { desc = "The Kingdom of Marruecos. The westernmost Islamic power, straddling Europe and Africa. Morocco has built its strategy around controlling the straits — whoever holds Gibraltar controls the western war." }
-  HRL = { desc = "The Heretic Legion. Humans who chose the wrong side, or had it chosen for them. The Legion fights for Infernal masters with human weapons and human cunning. They are more dangerous than pure demons precisely because they know how we think." }
-  CRT = { desc = "The Court of the Harrowed King. An undead domain that emerged from the Balkan corruption — neither fully Infernal nor fully Holy. The Harrowed King seeks his own ends. He has lived long enough to play a very long game." }
-  MAM = { desc = "The Domain of Mammon. The demon of greed has built an empire. Mammon does not want to destroy the world — he wants to own it. His domain functions like a corrupted state, complete with taxation, commerce, and terrible contracts." }
-  BLZ = { desc = "The Dominion of Beelzebub. The Lord of Flies brings corruption through pestilence and rot. His domain is a festering wound in the earth where nothing lives that Beelzebub did not make. Expansion comes through infection, not invasion." }
-  ASM = { desc = "The Kingdom of Asmodeus. The Infernal Compact's most powerful member. Asmodeus rules through law, contract, and binding obligation — a demonic legalism that has proven devastatingly effective against those who make deals they cannot honour." }
-  SAM = { desc = "The Realm of Samael. The angel of death turned against Heaven. Samael's forces carry the mark of the divine corrupted — they are more terrifying than ordinary demons because they were something else first, and remember it." }
-  IBL = { desc = "The Sultanate of Iblis. The first fallen, the greatest rebel, commands a vast Infernal army from the ruins of Mesopotamia. Iblis fights with grand strategy and long patience. He has been planning the final offensive since 1099." }
-  MRD = { desc = "The Dominion of the Marid. The great sea-demons of Islamic tradition, the Marid have made the corrupted Mediterranean their domain. Their fleet is unlike anything human navies have faced — and it grows stronger every decade." }
-  IFR = { desc = "The Ifrit Warlords. Fire-demons of the deep desert, the Ifrit have no unified command — only competing warlords bound by proximity and mutual interest. Chaotic and devastating, they are the Infernal Compact's blunt instrument." }
-  UNM = { desc = "The Unmarked. Those who serve neither Heaven nor Hell, surviving in the spaces between. The Unmarked have built something remarkable in the wasteland — a society that refuses the binary of this war. Everyone else wants them to choose a side." }
-  LIL = { desc = "The Domain of Lilith. The first rebel against Heaven commands a domain built on autonomy and the refusal of divine order. Lilith is not evil — she is something more complicated. Her relationship with the Infernal Compact is as fraught as her relationship with the Holy League." }
+  SER = { desc = "New Antioch. The last great crusader state, founded on the ruins of the Holy Land. New Antioch guards the most contested ground on earth — the place where the gates of Hell first opened. Every soldier here is a true believer." }
+  U02 = { desc = "The Trench Pilgrims. A nation built from those who would not stop fighting. The Pilgrims have no homeland — only the front. Fanatical, mobile, and uncountable, they are the Holy League's wild card." }
+  OTT = { desc = "The Iron Sultanate. A Muslim power that made its peace with the Holy League to fight the greater evil. The Sultanate's warriors have developed unique methods of fighting Infernal forces, born of long and bloody experience." }
+  HOL = { desc = "The Hebrew Knights. An ancient order reborn as a nation. The Knights guard the routes to Jerusalem with a ferocity that has broken every Infernal assault for three hundred years. They do not retreat. Ever." }
+  HON = { desc = "Éire. The island of saints and scholars has become something else — a source of mystical resistance the Church barely understands. Irish monks hold knowledge of the Infernal that predates the First Heresy." }
+  POR = { desc = "The Papal States. The spiritual heart of the Holy League and its most fractious member. The Pope commands souls, not always armies. Rome must convince, cajole, and occasionally threaten the alliance into coherence." }
+  RUS = { desc = "The Czardom of Novgorod. Russia fragmented after the eastern gates opened. Novgorod is the largest fragment — proudly Orthodox, deeply suspicious of Rome, and fighting a very different war on the eastern steppe." }
+  UKR = { desc = "The Principality of Kyiv. The old heart of Rus, now a battleground. Kyiv sits at the junction of Holy and Infernal advance, making deals with both sides to survive. A dangerous game, but they have played it for centuries." }
+  ROM = { desc = "The Scythians. The horseback warriors of the steppe have found new purpose defending the vast emptiness between the infernal east and the Christian west. No one knows the corrupted plains better than the Scythians." }
+  ETH = { desc = "Abyssinia. The ancient Christian kingdom of Africa has held its own against Infernal incursion for eight centuries through faith, terrain, and sheer stubbornness. The highlands are theirs. The lowlands are contested." }
+  LUX = { desc = "The Kingdom of Marruecos. The westernmost Islamic power, straddling Europe and Africa. Morocco has built its strategy around controlling the straits — whoever holds Gibraltar controls the western war." }
+  GER = { desc = "The Heretic Legion. Humans who chose the wrong side, or had it chosen for them. The Legion fights for Infernal masters with human weapons and human cunning. They are more dangerous than pure demons precisely because they know how we think." }
+  BUL = { desc = "The Court of the Harrowed King. An undead domain that emerged from the Balkan corruption — neither fully Infernal nor fully Holy. The Harrowed King seeks his own ends. He has lived long enough to play a very long game." }
+  ITA = { desc = "The Domain of Mammon. The demon of greed has built an empire. Mammon does not want to destroy the world — he wants to own it. His domain functions like a corrupted state, complete with taxation, commerce, and terrible contracts." }
+  GRE = { desc = "The Dominion of Beelzebub. The Lord of Flies brings corruption through pestilence and rot. His domain is a festering wound in the earth where nothing lives that Beelzebub did not make. Expansion comes through infection, not invasion." }
+  IRN = { desc = "The Kingdom of Asmodeus. The Infernal Compact's most powerful member. Asmodeus rules through law, contract, and binding obligation — a demonic legalism that has proven devastatingly effective against those who make deals they cannot honour." }
+  SOV = { desc = "The Realm of Samael. The angel of death turned against Heaven. Samael's forces carry the mark of the divine corrupted — they are more terrifying than ordinary demons because they were something else first, and remember it." }
+  IRQ = { desc = "The Sultanate of Iblis. The first fallen, the greatest rebel, commands a vast Infernal army from the ruins of Mesopotamia. Iblis fights with grand strategy and long patience. He has been planning the final offensive since 1099." }
+  YUG = { desc = "The Dominion of the Marid. The great sea-demons of Islamic tradition, the Marid have made the corrupted Mediterranean their domain. Their fleet is unlike anything human navies has faced — and it grows stronger every decade." }
+  SAU = { desc = "The Ifrit Warlords. Fire-demons of the deep desert, the Ifrit have no unified command — only competing warlords bound by proximity and mutual interest. Chaotic and devastating, they are the Infernal Compact's blunt instrument." }
+  AFG = { desc = "The Unmarked. Those who serve neither Heaven nor Hell, surviving in the spaces between. The Unmarked have built something remarkable in the wasteland — a society that refuses the binary of this war. Everyone else wants them to choose a side." }
+  PER = { desc = "The Domain of Lilith. The first rebel against Heaven commands a domain built on autonomy and the refusal of divine order. Lilith is not evil — she is something more complicated. Her relationship with the Infernal Compact is as fraught as her relationship with the Holy League." }
 }
 
 globaldata =
@@ -48,13 +48,13 @@ globaldata =
 
   axis =
   { id          = { type = 15000 id = 2 }
-    participant = { ASM }
+    participant = { IRN }
     name = "Infernal Compact"
   }
 
   comintern =
   { id          = { type = 15000 id = 3 }
-    participant = { NOV }
+    participant = { RUS }
     name = "The Unmarked"
   }
 
@@ -73,28 +73,28 @@ include = "scenarios\1905_gathering_dark\NOR.inc"
 include = "scenarios\1905_gathering_dark\ALB.inc"
 include = "scenarios\1905_gathering_dark\POL.inc"
 include = "scenarios\1905_gathering_dark\HUN.inc"
-include = "scenarios\1905_gathering_dark\NAT.inc"
-include = "scenarios\1905_gathering_dark\TRP.inc"
-include = "scenarios\1905_gathering_dark\IRS.inc"
-include = "scenarios\1905_gathering_dark\HBK.inc"
-include = "scenarios\1905_gathering_dark\EIR.inc"
-include = "scenarios\1905_gathering_dark\PAP.inc"
-include = "scenarios\1905_gathering_dark\NOV.inc"
-include = "scenarios\1905_gathering_dark\KYV.inc"
-include = "scenarios\1905_gathering_dark\SCY.inc"
-include = "scenarios\1905_gathering_dark\ABY.inc"
-include = "scenarios\1905_gathering_dark\MOR.inc"
-include = "scenarios\1905_gathering_dark\HRL.inc"
-include = "scenarios\1905_gathering_dark\CRT.inc"
-include = "scenarios\1905_gathering_dark\MAM.inc"
-include = "scenarios\1905_gathering_dark\BLZ.inc"
-include = "scenarios\1905_gathering_dark\ASM.inc"
-include = "scenarios\1905_gathering_dark\SAM.inc"
-include = "scenarios\1905_gathering_dark\IBL.inc"
-include = "scenarios\1905_gathering_dark\MRD.inc"
-include = "scenarios\1905_gathering_dark\IFR.inc"
-include = "scenarios\1905_gathering_dark\UNM.inc"
-include = "scenarios\1905_gathering_dark\LIL.inc"
+include = "scenarios\1905_gathering_dark\SER.inc"
+include = "scenarios\1905_gathering_dark\U02.inc"
+include = "scenarios\1905_gathering_dark\OTT.inc"
+include = "scenarios\1905_gathering_dark\HOL.inc"
+include = "scenarios\1905_gathering_dark\HON.inc"
+include = "scenarios\1905_gathering_dark\POR.inc"
+include = "scenarios\1905_gathering_dark\RUS.inc"
+include = "scenarios\1905_gathering_dark\UKR.inc"
+include = "scenarios\1905_gathering_dark\ROM.inc"
+include = "scenarios\1905_gathering_dark\ETH.inc"
+include = "scenarios\1905_gathering_dark\LUX.inc"
+include = "scenarios\1905_gathering_dark\GER.inc"
+include = "scenarios\1905_gathering_dark\BUL.inc"
+include = "scenarios\1905_gathering_dark\ITA.inc"
+include = "scenarios\1905_gathering_dark\GRE.inc"
+include = "scenarios\1905_gathering_dark\IRN.inc"
+include = "scenarios\1905_gathering_dark\SOV.inc"
+include = "scenarios\1905_gathering_dark\IRQ.inc"
+include = "scenarios\1905_gathering_dark\YUG.inc"
+include = "scenarios\1905_gathering_dark\SAU.inc"
+include = "scenarios\1905_gathering_dark\AFG.inc"
+include = "scenarios\1905_gathering_dark\PER.inc"
 include = "scenarios\1905_gathering_dark\rebels.inc"
 include = "scenarios\1905_gathering_dark\bases.inc"
 include = "scenarios\1905_gathering_dark\depots.inc"
