@@ -1,116 +1,56 @@
-################################
-# TRENCH CRUSADE LOCALISATION
-# Semi-colon separated: KEY;English;
-################################
-
-# === IDEOLOGIES ===
-democratic;Holy;
-fascist;Infernal;
-neutral;Unaligned;
-communist;Heretic;
-
-democratic_party;Holy Order;
-fascist_party;Infernal Cult;
-neutral_party;Unaligned Council;
-communist_party;Heretic Cabal;
-
-# === COUNTRY NAMES (vanilla tag -> TC name) ===
-ENG;England;
-ENG_ADJ;English;
-
-PRU;Free State of Prussia;
-PRU_ADJ;Prussian;
-
-NOR;Kingdom of Norway;
-NOR_ADJ;Norwegian;
-
-ALB;Kingdom of Alba;
-ALB_ADJ;Alban;
-
-POL;Polish-Lithuanian Commonwealth;
-POL_ADJ;Polish;
-
-HUN;Kingdom of Hungary;
-HUN_ADJ;Hungarian;
-
-SER;New Antioch;
-SER_ADJ;Antiochene;
-
-U02;Trench Pilgrims;
-U02_ADJ;Pilgrim;
-
-OTT;Iron Sultanate;
-OTT_ADJ;Sultanate;
-
-HOL;Hebrew Knights;
-HOL_ADJ;Hebrew;
-
-HON;Éire;
-HON_ADJ;Irish;
-
-POR;Papal States;
-POR_ADJ;Papal;
-
-RUS;Czardom of Novgorod;
-RUS_ADJ;Novgorodian;
-
-UKR;Principality of Kyiv;
-UKR_ADJ;Kyivan;
-
-ROM;Scythians;
-ROM_ADJ;Scythian;
-
-ETH;Abyssinia;
-ETH_ADJ;Abyssinian;
-
-LUX;Kingdom of Marruecos;
-LUX_ADJ;Marruecian;
-
-GER;Heretic Legion;
-GER_ADJ;Legionnaire;
-
-BUL;Court of the Harrowed King;
-BUL_ADJ;Harrowed;
-
-ITA;Domain of Mammon;
-ITA_ADJ;Mammonite;
-
-GRE;Dominion of Beelzebub;
-GRE_ADJ;Beelzebine;
-
-IRE;Kingdom of Asmodeus;
-IRN_ADJ;Asmodean;
-
-SOV;Realm of Samael;
-SOV_ADJ;Samaelite;
-
-IRQ;Sultanate of Iblis;
-IRQ_ADJ;Iblisian;
-
-YUG;Dominion of the Marid;
-YUG_ADJ;Marid;
-
-SAU;Ifrit Warlords;
-SAU_ADJ;Ifrit;
-
-AFG;The Unmarked;
-AFG_ADJ;Unmarked;
-
-PER;Domain of Lilith;
-PER_ADJ;Lilithian;
-
-# === GOVERNMENTS ===
-constitutional_monarchy;Constitutional Monarchy;
-absolute_monarchy;Absolute Monarchy;
-theocracy;Holy Theocracy;
-military_dictatorship;Military Junta;
-totalitarian_dictatorship;Infernal Dominion;
-tribal_dictatorship;Warlord Council;
-
-# === ALLIANCE NAMES ===
-Holy League;The Holy League;
-Infernal Compact;The Infernal Compact;
-The Unmarked;The Compact of the Unmarked;
-
-# === SCENARIO ===
-The Gathering Dark;1905 - The Gathering Dark;
+ENG;England;England;Angleterre;Anglia;Inglaterra;Inghilterra;England;Anglie;Anglia;Inglaterra;Anglia;Englanti;
+ENG_ADJ;English;Englisch;Anglais;Angielski;Inglés;Inglese;Engelsk;Anglický;Angol;Inglês;Englez;Englantilainen;
+PRU;Free State of Prussia;Freistaat Preußen;État libre de Prusse;Wolne Państwo Pruskie;Estado Libre de Prusia;Libero Stato di Prussia;Fristaten Preussen;Svobodný stát Prusko;Porosz Szabad Állam;Estado Livre da Prússia;Statul Liber Prusia;Vapaa Preussin Valtio;
+PRU_ADJ;Prussian;Preußisch;Prussien;Pruski;Prusiano;Prussiano;Preussisk;Pruský;Porosz;Prussiano;Prusian;Preussilainen;
+NOR;Kingdom of Norway;Königreich Norwegen;Royaume de Norvège;Królestwo Norwegii;Reino de Noruega;Regno di Norvegia;Kongedømmet Norge;Království Norsko;Norvég Királyság;Reino da Noruega;Regatul Norvegiei;Norjan Kuningaskunta;
+NOR_ADJ;Norwegian;Norwegisch;Norvégien;Norweski;Noruego;Norvegese;Norsk;Norský;Norvég;Norueguês;Norvegian;Norjalainen;
+ALB;Kingdom of Alba;Königreich Alba;Royaume d'Alba;Królestwo Alba;Reino de Alba;Regno di Alba;Kongedømmet Alba;Království Alba;Alba Királyság;Reino de Alba;Regatul Alba;Albanian Kuningaskunta;
+ALB_ADJ;Alban;Albanisch;Albanais;Albański;Albanés;Albanese;Albansk;Albánský;Albán;Albanês;Alban;Albanilainen;
+POL;Polish-Lithuanian Commonwealth;Polnisch-Litauisches Commonwealth;Commonwealth Polono-Lituanien;Rzeczpospolita Polsko-Litewska;Mancomunidad Polaco-Lituana;Commonwealth Polacco-Lituano;Polsk-Litauiske Samvelde;Polsko-litevské společenství;Lengyel-Litván Unió;Comunidade Polaco-Lituana;Commonwealth Polono-Lituanian;Puolalais-Liettualaisliitto;
+POL_ADJ;Polish;Polnisch;Polonais;Polski;Polaco;Polacco;Polsk;Polský;Lengyel;Polaco;Polonez;Puolalainen;
+HUN;Kingdom of Hungary;Königreich Ungarn;Royaume de Hongrie;Królestwo Węgier;Reino de Hungría;Regno d'Ungheria;Kongeriget Ungarn;Království Maďarsko;Magyar Királyság;Reino da Hungria;Regatul Ungariei;Unkarin Kuningaskunta;
+HUN_ADJ;Hungarian;Ungarisch;Hongrois;Węgierski;Húngaro;Ungherese;Ungarsk;Maďarský;Magyar;Húngaro;Maghiar;Unkarilainen;
+SER;New Antioch;Neu-Antiochia;Nouvelle Antioche;Nowa Antiochia;Nueva Antioquía;Nuova Antiochia;Ny Antiokia;Nová Antiochie;Új Antiochia;Nova Antioquia;Noua Antiohie;Uusi Antiokia;
+SER_ADJ;Antiochene;Antiochenisch;Antiochien;Antiocheński;Antioqueno;Antiocheno;Antiokiansk;Antiochijský;Antiochiai;Antioqueno;Antiochean;Antiokialainen;
+U02;Trench Pilgrims;Schützengräben-Pilger;Pèlerins des Tranchées;Pielgrzymi Okopowi;Peregrinos de la Trinchera;Pellegrini della Trincea;Skyttergravspilegrimer;Příkopní poutníci;Lövészárok Zarándokok;Peregrinos da Trincheira;Pelerini ai Transeelor;Juoksuhautapyhiinvaeltajat;
+U02_ADJ;Pilgrim;Pilger;Pèlerin;Pielgrzym;Peregrino;Pellegrino;Pilegrim;Poutník;Zarándok;Peregrino;Pelerin;Pyhiinvaeltaja;
+OTT;Iron Sultanate;Eisensultanat;Sultanat de Fer;Żelazny Sułtanat;Sultanato de Hierro;Sultanato di Ferro;Jernsultanatet;Železný sultanát;Vas Szultánság;Sultanato de Ferro;Sultanatul de Fier;Rautasultanaatti;
+OTT_ADJ;Sultanate;Sultanat;Sultanat;Sułtanat;Sultanato;Sultanato;Sultanat;Sultanát;Szultánság;Sultanato;Sultanat;Sultanaatti;
+HOL;Hebrew Knights;Hebräische Ritter;Chevaliers Hébreux;Rycerze Hebrajscy;Caballeros Hebreos;Cavalieri Ebrei;Hebraiske Riddere;Hebrejští rytíři;Héber Lovagok;Cavaleiros Hebraicos;Cavalerii Evrei;Heprealaiset Ritarit;
+HOL_ADJ;Hebrew;Hebräisch;Hébreu;Hebrajski;Hebreo;Ebraico;Hebraisk;Hebrejský;Héber;Hebraico;Ebraic;Heprealainen;
+HON;Éire;Éire;Éire;Éire;Éire;Éire;Éire;Éire;Éire;Éire;Éire;Éire;
+HON_ADJ;Irish;Irisch;Irlandais;Irlandzki;Irlandés;Irlandese;Irsk;Irský;Ír;Irlandês;Irlandez;Irlantilainen;
+POR;Papal States;Kirchenstaat;États pontificaux;Państwo Kościelne;Estados Pontificios;Stato Pontificio;Kirkestaten;Papežský stát;Pápai Állam;Estados Pontificios;Statele Papale;Kirkkovaltio;
+POR_ADJ;Papal;Päpstlich;Pontifical;Papieski;Papal;Papale;Pavelig;Papežský;Pápai;Papal;Papal;Paavillinen;
+RUS;Czardom of Novgorod;Zarenreich Nowgorod;Tsarat de Novgorod;Carstwo Nowogrodu;Zarato de Nóvgorod;Zarato di Novgorod;Novgorods Tsardom;Novgorodské carství;Novgorodi Cárság;Czarado de Novgorod;Țaratul Novgorodului;Novgorodin Tsaarikunta;
+RUS_ADJ;Novgorodian;Nowgorodisch;Novgorodien;Nowogrodzki;Novgorodiano;Novgorodiano;Novgorodisk;Novgorodský;Novgorodi;Novgorodiano;Novgorodian;Novgorodilainen;
+UKR;Principality of Kyiv;Fürstentum Kiew;Principauté de Kiev;Księstwo Kijowskie;Principado de Kiev;Principato di Kiev;Fyrstendømmet Kyiv;Kyjevské knížectví;Kijevi Fejedelemség;Principado de Kiev;Principatul Kievului;Kiovan Ruhtinaskunta;
+UKR_ADJ;Kyivan;Kiewer;Kiévien;Kijowski;Kieviano;Kieviano;Kyivsk;Kyjevský;Kijevi;Kieviano;Kievean;Kiovalainen;
+ROM;Scythians;Skythen;Scythes;Scytowie;Escitas;Sciti;Skytere;Skythové;Szkíták;Citas;Sciți;Skyytit;
+ROM_ADJ;Scythian;Skythisch;Scythe;Scytyjski;Escita;Scita;Skytisk;Skythský;Szkíta;Cita;Scit;Skyyttinen;
+ETH;Abyssinia;Abessinien;Abyssinie;Abisynia;Abisinia;Abissinia;Abyssinia;Habeš;Abesszínia;Abissínia;Abisinia;Abessinia;
+ETH_ADJ;Abyssinian;Abessinisch;Abyssinien;Abisyński;Abisinio;Abissino;Abyssinsk;Habešský;Abesszin;Abissínio;Abisin;Abessinialinen;
+LUX;Kingdom of Marruecos;Königreich Marruecos;Royaume du Maroc;Królestwo Maroka;Reino de Marruecos;Regno del Marocco;Kongeriget Marokko;Království Maroko;Marokkói Királyság;Reino de Marrocos;Regatul Marocului;Marokon Kuningaskunta;
+LUX_ADJ;Moroccan;Marokkanisch;Marocain;Marokański;Marroquí;Marocchino;Marokkansk;Marocký;Marokkói;Marroquino;Marocan;Marokkolainen;
+GER;Heretic Legion;Ketzernlegion;Légion des Hérétiques;Legion Heretyków;Legión de los Herejes;Legione degli Eretici;Kjetterlegionen;Kacířská legie;Eretnek Légió;Legião dos Hereges;Legiunea Ereticilor;Harhaoppisten Legioona;
+GER_ADJ;Legionnaire;Legionär;Légionnaire;Legionista;Legionario;Legionario;Legionær;Legionář;Légionárius;Legionário;Legionar;Legionaari;
+BUL;Court of the Harrowed King;Hof des Gepeinigten Königs;Cour du Roi Tourmenté;Dwór Udręczonego Króla;Corte del Rey Atormentado;Corte del Re Tormentato;Den plagede Konges Hof;Dvůr trýzněného krále;A Gyötört Király Udvara;Corte do Rei Atormentado;Curtea Regelui Chinuit;Kidutun Kuninkaan Hovi;
+BUL_ADJ;Harrowed;Gepeinigt;Tourmenté;Udręczony;Atormentado;Tormentato;Plaget;Trýzněný;Gyötört;Atormentado;Chinuit;Kiduttu;
+ITA;Domain of Mammon;Herrschaftsgebiet des Mammons;Domaine de Mammon;Domena Mammona;Dominio de Mamón;Dominio di Mammon;Mammons Domene;Doména Mammona;Mammon Uralma;Domínio de Mammon;Domeniul lui Mammon;Mammonin Valtakunta;
+ITA_ADJ;Mammonite;Mammonisch;Mammonite;Mammonski;Mammonita;Mammonita;Mammonsk;Mammonský;Mammonita;Mammonita;Mammonit;Mammonitelainen;
+GRE;Dominion of Beelzebub;Herrschaft des Beelzebub;Domination de Belzébuth;Dominacja Belzebuba;Dominio de Belcebú;Dominio di Belzebù;Beelzebubs Herredømme;Panství Belzebuba;Belzebub Uralma;Domínio de Belzebu;Dominația lui Belzebub;Belzebubin Herruus;
+GRE_ADJ;Beelzebine;Beelzebubbisch;Belzébuthien;Belzebubski;Belcebúnico;Belzebùnico;Beelzebubsk;Belzebubský;Belzebubi;Belzebuíno;Beelzebubian;Belzebubilainen;
+IRE;Kingdom of Asmodeus;Königreich des Asmodeus;Royaume d'Asmodée;Królestwo Asmodejsza;Reino de Asmodeo;Regno di Asmodeo;Asmodeus' Kongerike;Království Asmodea;Asmodeus Királysága;Reino de Asmodeu;Regatul lui Asmodeu;Asmodeusin Kuningaskunta;
+IRE_ADJ;Asmodean;Asmodisch;Asmodéen;Asmodejski;Asmodeo;Asmodeo;Asmodesk;Asmodský;Asmodean;Asmodean;Asmodean;Asmodeusilainen;
+SOV;Realm of Samael;Reich des Samael;Royaume de Samael;Królestwo Samaela;Reino de Samael;Regno di Samael;Samaels Rike;Říše Samaela;Samael Birodalma;Reino de Samael;Regatul lui Samael;Samaelin Valtakunta;
+SOV_ADJ;Samaelite;Samaelisch;Samaélite;Samaelski;Samaelita;Samaelita;Samaelitisk;Samaelský;Samaelita;Samaelita;Samaelit;Samaelitelainen;
+IRQ;Sultanate of Iblis;Sultanat des Iblis;Sultanat d'Iblis;Sułtanat Iblisa;Sultanato de Iblis;Sultanato di Iblis;Iblis Sultanat;Sultanát Iblíse;Iblisz Szultánság;Sultanato de Iblis;Sultanatul lui Iblis;Ibliksen Sultanaatti;
+IRQ_ADJ;Iblisian;Iblisisch;Iblisien;Iblisski;Iblisiano;Iblisiano;Iblisisk;Iblisský;Ibliszi;Iblisiano;Iblisian;Iblisilainen;
+YUG;Dominion of the Marid;Herrschaft der Marid;Domination des Marid;Dominacja Maridów;Dominio de los Marid;Dominio dei Marid;Marids Herredømme;Panství Maridů;Marid Uralma;Domínio dos Marid;Dominația Maridului;Maridin Herruus;
+YUG_ADJ;Marid;Maridisch;Maride;Marydski;Marid;Marid;Maridsk;Maridský;Marid;Marid;Marid;Maridlainen;
+SAU;Ifrit Warlords;Ifrit-Kriegsherren;Seigneurs de Guerre Ifrits;Watażkowie Ifritów;Señores de la Guerra Ifrit;Signori della Guerra Ifrit;Ifrit Krigsherrer;Ifritští válečníci;Ifrit Hadurak;Senhores da Guerra Ifrit;Seigneurs Ifrit;Ifrit-Sotapäälliköt;
+SAU_ADJ;Ifrit;Ifritisch;Ifrit;Ifrytski;Ifrit;Ifrit;Ifritsk;Ifritský;Ifrit;Ifrit;Ifrit;Ifritilainen;
+AFG;The Unmarked;Die Ungezeichneten;Les Sans-Marque;Bez Znaku;Los Sin Marca;I Senza Marchio;De Umerkede;Neoznačení;A Jelöletlenek;Os Sem Marca;Cei Fără Semn;Merkitsemättömät;
+AFG_ADJ;Unmarked;Ungezeichnet;Sans-Marque;Bezznakowy;Sin Marca;Senza Marchio;Umerket;Neoznačený;Jelöletlen;Sem Marca;Fără Semn;Merkitsemätön;
+PER;Domain of Lilith;Herrschaftsgebiet der Lilith;Domaine de Lilith;Domena Lilith;Dominio de Lilith;Dominio di Lilith;Liliths Domene;Doména Lilith;Lilith Uralma;Domínio de Lilith;Domeniul Lilithei;Lilithin Valtakunta;
+PER_ADJ;Lilithian;Lilithisch;Lilithien;Lilithski;Lilithiano;Lilithiano;Lilithsk;Lilithský;Lilithiai;Lilithiano;Lilithean;Lilithilainen;
