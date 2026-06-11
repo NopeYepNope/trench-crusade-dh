@@ -4,7 +4,7 @@ panel      = "scenarios/1905_gathering_dark/scenario_1905.bmp"
 header =
 { name       = "The Gathering Dark"
   startdate  = { year = 1905 }
-  selectable = { ENG PRU NOR ALB POL HUN SER U02 OTT HOL HON POR RUS UKR ROM ETH LUX GER BUL ITA GRE IRN SOV IRQ YUG SAU AFG PER }
+  selectable = { ENG PRU NOR ALB POL HUN SER U02 OTT HOL HON POR RUS UKR ROM ETH LUX GER BUL ITA GRE IRE SOV IRQ YUG SAU AFG PER }
 
   ENG = { desc = "The island fortress of the Holy League. England's navy commands the seas and her crusader tradition runs deep. Nine years before the Great Trench War, she must hold the western alliance together against rising Infernal pressure." }
   PRU = { desc = "The Free State of Prussia. A martial republic born from the ashes of the old German Empire. Prussia stands as the steel spine of Central European resistance, her armies forged in the crucible of constant border warfare." }
@@ -27,7 +27,7 @@ header =
   BUL = { desc = "The Court of the Harrowed King. An undead domain that emerged from the Balkan corruption — neither fully Infernal nor fully Holy. The Harrowed King seeks his own ends. He has lived long enough to play a very long game." }
   ITA = { desc = "The Domain of Mammon. The demon of greed has built an empire. Mammon does not want to destroy the world — he wants to own it. His domain functions like a corrupted state, complete with taxation, commerce, and terrible contracts." }
   GRE = { desc = "The Dominion of Beelzebub. The Lord of Flies brings corruption through pestilence and rot. His domain is a festering wound in the earth where nothing lives that Beelzebub did not make. Expansion comes through infection, not invasion." }
-  IRN = { desc = "The Kingdom of Asmodeus. The Infernal Compact's most powerful member. Asmodeus rules through law, contract, and binding obligation — a demonic legalism that has proven devastatingly effective against those who make deals they cannot honour." }
+  IRE = { desc = "The Kingdom of Asmodeus. The Infernal Compact's most powerful member. Asmodeus rules through law, contract, and binding obligation — a demonic legalism that has proven devastatingly effective against those who make deals they cannot honour." }
   SOV = { desc = "The Realm of Samael. The angel of death turned against Heaven. Samael's forces carry the mark of the divine corrupted — they are more terrifying than ordinary demons because they were something else first, and remember it." }
   IRQ = { desc = "The Sultanate of Iblis. The first fallen, the greatest rebel, commands a vast Infernal army from the ruins of Mesopotamia. Iblis fights with grand strategy and long patience. He has been planning the final offensive since 1099." }
   YUG = { desc = "The Dominion of the Marid. The great sea-demons of Islamic tradition, the Marid have made the corrupted Mediterranean their domain. Their fleet is unlike anything human navies has faced — and it grows stronger every decade." }
@@ -48,7 +48,7 @@ globaldata =
 
   axis =
   { id          = { type = 15000 id = 2 }
-    participant = { IRN }
+    participant = { IRE }
     name = "Infernal Compact"
   }
 
@@ -88,7 +88,7 @@ include = "scenarios\1905_gathering_dark\GER.inc"
 include = "scenarios\1905_gathering_dark\BUL.inc"
 include = "scenarios\1905_gathering_dark\ITA.inc"
 include = "scenarios\1905_gathering_dark\GRE.inc"
-include = "scenarios\1905_gathering_dark\IRN.inc"
+include = "scenarios\1905_gathering_dark\IRE.inc"
 include = "scenarios\1905_gathering_dark\SOV.inc"
 include = "scenarios\1905_gathering_dark\IRQ.inc"
 include = "scenarios\1905_gathering_dark\YUG.inc"
