@@ -9,9 +9,9 @@ country = {
   supplies = 500
   money = 10
   transports = 20
-  ownedprovinces = { 1019 1020 1021 }
-  controlledprovinces = { 1019 1020 1021 }
-  nationalprovinces = { 1019 1020 1021 }
+  ownedprovinces = { 1022 1023 1024 1025 }
+  controlledprovinces = { 1022 1023 1024 1025 }
+  nationalprovinces = { 1022 1023 1024 1025 }
 
   techapps = { 1010 1020 1030 1160 1170 1180 13060 13070 2290 2800 3010 3020 3110 3120 3410 3810 4500 5600 5700 6500 6510 8010 8020 27480 27490 }
 
