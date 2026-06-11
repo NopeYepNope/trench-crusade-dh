@@ -2,8 +2,8 @@
 ##;;;;;;;;;;;X
 # Countries!;;;;;;;;;;;X
 ##;;;;;;;;;;;X
-AFG;The Unmarked;Les Sans-Marque;I Senza Marchio;Los Sin Marca;Die Ungezeichneten;Bez Znaku;Os Sem Marca;Neotvechennye;;X
-ALB;Kingdom of Alba;Royaume d'Alba;Regno di Alba;Reino de Alba;Koenigreich Alba;Krolestwo Alba;Reino de Alba;Korolevstvo Alba;;X
+AFG;The Unmarked;Les Sans-Marque;I Senza Marchio;Los Sin Marca;Die Ungezeichneten;Bez Znaku;Os Sem Marca;Neotvechennye;;;X
+ALB;Kingdom of Alba;Royaume d'Alba;Regno di Alba;Reino de Alba;Koenigreich Alba;Krolestwo Alba;Reino de Alba;Korolevstvo Alba;;;X
 ALG;Algeria;Algérie;Algeria;Argelia;Algerien;Algieria;;Àëæèğ;;;X
 ALI;Alien Invaders;Envahisseurs aliens;Invasori Alieni;Invasores extranjeros;Außerirdische Invasoren;Obcy NajeŸdŸcy;;Èíîïëàíåòíûå çàõâàò÷èêè;;;X
 ALS;The Allies;Les Alliés;Gli Alleati;Los Aliados;Die Alliierten;Alianci;;Ñîşçíèêè;;;X
@@ -23,7 +23,7 @@ BOL;Bolivia;Bolivie;Bolivia;Bolivia;Bolivien;Boliwia;;Áîëèâèÿ;;;X
 BOS;Bosnia;Bosnie;Bosnia;Bosnia;Bosnien;Boœnia;;Áîñíèÿ;;;X
 BRA;Brazil;Brésil;Brasile;Brasil;Brasilien;Brazylia;;Áğàçèëèÿ;;;X
 BRU;Brunei;Bruneï;Brunei;Brunei;Brunei;Brunei;;Áğóíåé;;;X
-BUL;Court of the Harrowed King;Cour du Roi Tourmente;Corte del Re Tormentato;Corte del Rey Atormentado;Hof des Gepeinigten Koenigs;Dwor Udreczonego Krola;Corte do Rei Atormentado;Dvor Muchenogo Korolya;;X
+BUL;Court of the Harrowed King;Cour du Roi Tourmente;Corte del Re Tormentato;Corte del Rey Atormentado;Hof des Gepeinigten Koenigs;Dwor Udreczonego Krola;Corte do Rei Atormentado;Dvor Muchenogo Korolya;;;X
 BUR;Burma;Birmanie;Birmania;Birmania;Burma;Birma;;Áèğìà;;;X
 CAL;California;Californie;California;California;Kalifornien;Kalifornia;;Êàëèôîğíèÿ;;;X
 CAM;Cameroon;Cameroun;Camerun;Camerún;Kamerun;Kamerun;;Êàìåğóí;;;X
@@ -51,34 +51,34 @@ DOM;Dominican Republic;République Dominicaine;Rep. Dominicana;República Dominica
 EAF;East African Union;Union Est-Africaine;Unione Africana orientale;Unión Africana Oriental;Ostafrikanische Union;Wsp. Wschodnioafr.;;Âîñò.-àôğèê. ñîşç;;;X
 ECU;Ecuador;Equateur;Ecuador;Ecuador;Ecuador;Ekwador;;İêâàäîğ;;;X
 EGY;Egypt;Egypte;Egitto;Egipto;Ägypten;Egipt;;Åãèïåò;;;X
-ENG;England;Angleterre;Inghilterra;Inglaterra;England;Anglia;Inglaterra;Anglija;;X
+ENG;England;Angleterre;Inghilterra;Inglaterra;England;Anglia;Inglaterra;Anglija;;;X
 EQA;Equatorial Africa;Afrique Equatoriale;Africa equatoriale;África Ecuatorial;Äquatorialafrika;Afryka Równikowa;;İêâàòîğèàëüíàÿ Àôğèêà;;;X
 EST;Estonia;Estonie;Estonia;Estonia;Estland;Estonia;;İñòîíèÿ;;;X
-ETH;Abyssinia;Abyssinie;Abissinia;Abisinia;Abessinien;Abisynia;Abissinia;Abissiniya;;X
+ETH;Abyssinia;Abyssinie;Abissinia;Abisinia;Abessinien;Abisynia;Abissinia;Abissiniya;;;X
 EUS;Euskadi;Pays Basque;Euskadi;Euskadi;Euskadi;Kraj Basków;;Ñòğàíà Áàñêîâ;;;X
 FIN;Finland;Finlande;Finlandia;Finlandia;Finnland;Finlandia;;Ôèíëÿíäèÿ;;;X
 FLA;Flanders;Flandre;Fiandre;Flandes;Flandern;Flandria;;Ôëàíäğèÿ;;;X
 FRA;France;France;Francia;Francia;Frankreich;Francja;;Ôğàíöèÿ;;;X
 GAB;Gabon;Gabon;Gabon;Gabón;Gabun;Gabon;;Ãàáîí;;;X
 GEO;Georgia;Géorgie;Georgia;Georgia;Georgien;Gruzja;;Ãğóçèÿ;;;X
-GER;Heretic Legion;Legion des Heretiques;Legione degli Eretici;Legion de los Herejes;Ketzernlegion;Legion Heretykow;Legiao dos Hereges;Legion Heretikov;;X
+GER;Heretic Legion;Legion des Heretiques;Legione degli Eretici;Legion de los Herejes;Ketzernlegion;Legion Heretykow;Legiao dos Hereges;Legion Heretikov;;;X
 GLD;Ghana;Ghana;Ghana;Ghana;Ghana;Ghana;;Ãàíà;;;X
-GRE;Dominion of Beelzebub;Domination de Belzebuth;Dominio di Belzebu;Dominio de Belcebu;Herrschaft des Beelzebub;Dominacja Belzebuba;Dominio de Belzebu;Vladeniye Velzevula;;X
+GRE;Dominion of Beelzebub;Domination de Belzebuth;Dominio di Belzebu;Dominio de Belcebu;Herrschaft des Beelzebub;Dominacja Belzebuba;Dominio de Belzebu;Vladeniye Velzevula;;;X
 GUA;Guatemala;Guatemala;Guatemala;Guatemala;Guatemala;Gwatemala;;Ãâàòåìàëà;;;X
 GUI;Guinea;Guinée;Guinea;Guinea;Guinea;Gwinea;;Ãâèíåÿ;;;X
 GUY;Guyana;Guyane;Guyana;Guayana;Guyana;Gujana;;Ãàéàíà;;;X
 HAI;Haiti;Haiti;Haiti;Haití;Haiti;Haiti;;Ãàèòè;;;X
-HOL;Hebrew Knights;Chevaliers Hebreux;Cavalieri Ebrei;Caballeros Hebreos;Hebraeische Ritter;Rycerze Hebrajscy;Cavaleiros Hebraicos;Evreyskiye Rytsari;;X
-HON;Eire;Eire;Eire;Eire;Eire;Eire;Eire;Eire;;X
-HUN;Kingdom of Hungary;Royaume de Hongrie;Regno d'Ungheria;Reino de Hungria;Koenigreich Ungarn;Krolestwo Wegier;Reino da Hungria;Korolevstvo Vengriya;;X
+HOL;Hebrew Knights;Chevaliers Hebreux;Cavalieri Ebrei;Caballeros Hebreos;Hebraeische Ritter;Rycerze Hebrajscy;Cavaleiros Hebraicos;Evreyskiye Rytsari;;;X
+HON;Eire;Eire;Eire;Eire;Eire;Eire;Eire;Eire;;;X
+HUN;Kingdom of Hungary;Royaume de Hongrie;Regno d'Ungheria;Reino de Hungria;Koenigreich Ungarn;Krolestwo Wegier;Reino da Hungria;Korolevstvo Vengriya;;;X
 ICL;Iceland;Islande;Islanda;Islandia;Island;Islandia;;Èñëàíäèÿ;;;X
 IDC;Indochina;Indochine;Indocina;Indochina;Indochina;Indochiny;;Èíäîêèòàé;;;X
 IND;India;Inde;India;India;Indien;Indie;;Èíäèÿ;;;X
 INO;Indonesia;Indonésie;Indonesia;Indonesia;Indonesien;Indonezja;;Èíäîíåçèÿ;;;X
-IRE;Kingdom of Asmodeus;Royaume d'Asmodee;Regno di Asmodeo;Reino de Asmodeo;Koenigreich des Asmodeus;Krolestwo Asmodejsza;Reino de Asmodeu;Korolevstvo Asmodeya;;X
-IRQ;Sultanate of Iblis;Sultanat d'Iblis;Sultanato di Iblis;Sultanato de Iblis;Sultanat des Iblis;Sultanat Iblisa;Sultanato de Iblis;Sultanat Iblisa;;X
+IRE;Kingdom of Asmodeus;Royaume d'Asmodee;Regno di Asmodeo;Reino de Asmodeo;Koenigreich des Asmodeus;Krolestwo Asmodejsza;Reino de Asmodeu;Korolevstvo Asmodeya;;;X
+IRQ;Sultanate of Iblis;Sultanat d'Iblis;Sultanato di Iblis;Sultanato de Iblis;Sultanat des Iblis;Sultanat Iblisa;Sultanato de Iblis;Sultanat Iblisa;;;X
 ISR;Israel;Israël;Israele;Israel;Israel;Izrael;;Èçğàèëü;;;X
-ITA;Domain of Mammon;Domaine de Mammon;Dominio di Mammon;Dominio de Mamon;Herrschaftsgebiet des Mammons;Domena Mammona;Dominio de Mammon;Vladeniye Mammona;;X
+ITA;Domain of Mammon;Domaine de Mammon;Dominio di Mammon;Dominio de Mamon;Herrschaftsgebiet des Mammons;Domena Mammona;Dominio de Mammon;Vladeniye Mammona;;;X
 JAP;Japan;Japon;Giappone;Japón;Japan;Japonia;;ßïîíèÿ;;;X
 JOR;Jordan;Jordanie;Giordania;Jordán;Jordanien;Jordania;;Èîğäàíèÿ;;;X
 KAZ;Kazakhstan;Kazakhstan;Kazakistan;Kazajstán;Kasachstan;Kazachstan;;Êàçàõñòàí;;;X
@@ -91,7 +91,7 @@ LBY;Libya;Libye;Libia;Libia;Libyen;Libia;;Ëèâèÿ;;;X
 LEB;Lebanon;Liban;Libano;Líbano;Libanon;Liban;;Ëèâàí;;;X
 LIB;Liberia;Libéria;Liberia;Liberia;Liberia;Liberia;;Ëèáåğèÿ;;;X
 LIT;Lithuania;Lituanie;Lituania;Lituania;Litauen;Litwa;;Ëèòâà;;;X
-LUX;Kingdom of Marruecos;Royaume du Maroc;Regno del Marocco;Reino de Marruecos;Koenigreich Marruecos;Krolestwo Maroka;Reino de Marrocos;Korolevstvo Marruecos;;X
+LUX;Kingdom of Marruecos;Royaume du Maroc;Regno del Marocco;Reino de Marruecos;Koenigreich Marruecos;Krolestwo Maroka;Reino de Marrocos;Korolevstvo Marruecos;;;X
 MAD;Madagascar;Madagascar;Madagascar;Madagascar;Madagaskar;Madagaskar;;Ìàäàãàñêàğ;;;X
 MAL;Union of Mali;Union du Mali;Unione del Mali;Unión de Malí;Union von Mali;Mali;;Ôåäåğàöèÿ Ìàëè;;;X
 MAN;Manchukuo;Mandchoukouo;Manchukuo;Manchuria;Mandschuko;Mand¿ukuo;;Ìàíü÷æîó-Ãî;;;X
@@ -107,34 +107,34 @@ NAM;Namibia;Namibie;Namibia;Namibia;Namibia;Namibia;;Íàìèáèÿ;;;X
 NEP;Nepal;Népal;Nepal;Nepal;Nepal;Nepal;;Íåïàë;;;X
 NIC;Nicaragua;Nicaragua;Nicaragua;Nicaragua;Nicaragua;Nikaragua;;Íèêàğàãóà;;;X
 NIG;Nigeria;Nigéria;Nigeria;Nigeria;Nigeria;Nigeria;;Íèãåğèÿ;;;X
-NOR;Kingdom of Norway;Royaume de Norvege;Regno di Norvegia;Reino de Noruega;Koenigreich Norwegen;Krolestwo Norwegii;Reino da Noruega;Korolevstvo Norvegiya;;X
+NOR;Kingdom of Norway;Royaume de Norvege;Regno di Norvegia;Reino de Noruega;Koenigreich Norwegen;Krolestwo Norwegii;Reino da Noruega;Korolevstvo Norvegiya;;;X
 NZL;New Zealand;Nlle-Zélande;Nuova Zelanda;Nueva Zelanda;Neuseeland;Nowa Zelandia;;Íîâàÿ Çåëàíäèÿ;;;X
 OMN;Oman;Oman;Oman;Omán;Oman;Oman;;Îìàí;;;X
-OTT;Iron Sultanate;Sultanat de Fer;Sultanato di Ferro;Sultanato de Hierro;Eisensultanat;Zelazny Sultanat;Sultanato de Ferro;Zheleznyy Sultanat;;X
+OTT;Iron Sultanate;Sultanat de Fer;Sultanato di Ferro;Sultanato de Hierro;Eisensultanat;Zelazny Sultanat;Sultanato de Ferro;Zheleznyy Sultanat;;;X
 PAK;Pakistan;Pakistan;Pakistan;Pakistán;Pakistan;Pakistan;;Ïàêèñòàí;;;X
 PAL;Palestine;Palestine;Palestina;Palestina;Palästina;Palestyna;;Ïàëåñòèíà;;;X
 PAN;Panama;Panama;Panama;Panamá;Panama;Panama;;Ïàíàìà;;;X
 PAR;Paraguay;Paraguay;Paraguay;Paraguay;Paraguay;Paragwaj;;Ïàğàãâàé;;;X
-PER;Domain of Lilith;Domaine de Lilith;Dominio di Lilith;Dominio de Lilith;Herrschaftsgebiet der Lilith;Domena Lilith;Dominio de Lilith;Vladeniye Lilit;;X
+PER;Domain of Lilith;Domaine de Lilith;Dominio di Lilith;Dominio de Lilith;Herrschaftsgebiet der Lilith;Domena Lilith;Dominio de Lilith;Vladeniye Lilit;;;X
 PHI;Philippines;Philippines;Filippine;Filipinas;Philippinen;Filipiny;;Ôèëèïïèíû;;;X
-POL;Polish-Lithuanian Commonwealth;Commonwealth Polono-Lituanien;Commonwealth Polacco-Lituano;Mancomunidad Polaco-Lituana;Polnisch-Litauisches Commonwealth;Rzeczpospolita;Comunidade Polaco-Lituana;Polsko-Litovskaya Respublika;;X
-POR;Papal States;Etats pontificaux;Stato Pontificio;Estados Pontificios;Kirchenstaat;Panstwo Koscielne;Estados Pontificios;Papskiye Gosudarstva;;X
+POL;Polish-Lithuanian Commonwealth;Commonwealth Polono-Lituanien;Commonwealth Polacco-Lituano;Mancomunidad Polaco-Lituana;Polnisch-Litauisches Commonwealth;Rzeczpospolita;Comunidade Polaco-Lituana;Polsko-Litovskaya Respublika;;;X
+POR;Papal States;Etats pontificaux;Stato Pontificio;Estados Pontificios;Kirchenstaat;Panstwo Koscielne;Estados Pontificios;Papskiye Gosudarstva;;;X
 PRI;Primorsk;Primorsk;Primorsk;Primorsk;Primorsk;Kraj Nadmorski;;Ïğèìîğüå;;;X
 PRK;People's Republic of Korea;République populaire de Corée;Repubblica popolare di Corea;República Popular de Corea;Volksrepublik Korea;Korea Pó³nocna;;Íàğîäíàÿ Ğåñïóáëèêà Êîğåÿ;;;X
-PRU;Free State of Prussia;Etat Libre de Prusse;Libero Stato di Prussia;Estado Libre de Prusia;Freistaat Preußen;Wolne Panstwo Pruskie;Estado Livre da Prussia;Svobodnoye Gosudarstvo Prussiya;;X
+PRU;Free State of Prussia;Etat Libre de Prusse;Libero Stato di Prussia;Estado Libre de Prusia;Freistaat Preußen;Wolne Panstwo Pruskie;Estado Livre da Prussia;Svobodnoye Gosudarstvo Prussiya;;;X
 QUE;Quebec;Québec;Quebec;Québec;Quebec;Quebec;;Êâåáåê;;;X
 RHO;Rhodesia and Nyasaland;Rhodésie et Nyassaland;Rhodesia e Nyasaland;Rhodesia y Nyasaland;Rhodesien und Njassaland;Rodezja i Niasa;;Ğîäåçèÿ è Íüÿñàëåíäà;;;X
-ROM;Scythians;Scythes;Sciti;Escitas;Skythen;Scytowie;Citas;Skify;;X
+ROM;Scythians;Scythes;Sciti;Escitas;Skythen;Scytowie;Citas;Skify;;;X
 RSI;Italian Social Republic;République sociale Italienne;Repubblica Sociale Italiana;República Socialista Italiana;Italienische Sozialrepublik;W³oska Republika Socjalna;;Èòàëüÿíñêàÿ Ñîö. Ğåñï.;;;X
-RUS;Czardom of Novgorod;Tsarat de Novgorod;Zarato di Novgorod;Zarato de Novgorod;Zarenreich Nowgorod;Carstwo Nowogrodu;Czarado de Novgorod;Tsarstvo Novgoroda;;X
+RUS;Czardom of Novgorod;Tsarat de Novgorod;Zarato di Novgorod;Zarato de Novgorod;Zarenreich Nowgorod;Carstwo Nowogrodu;Czarado de Novgorod;Tsarstvo Novgoroda;;;X
 SAF;Union of South Africa;Union d'Afrique du sud;Sudafrica;Sudáfrica;Südafrika;RPA;;Şæíàÿ Àôğèêà;;;X
 SAL;El Salvador;Salvador;El Salvador;El Salvador;El Salvador;Salwador;;Ñàëüâàäîğ;;;X
 SAR;Sarawak;Sarawak;Sarawak;Sarawak;Sarawak;Sarawak;;Ñàğàâàê;;;X
-SAU;Ifrit Warlords;Seigneurs de Guerre Ifrits;Signori della Guerra Ifrit;Senores de la Guerra Ifrit;Ifrit-Kriegsherren;Watazkowice Ifritow;Senhores da Guerra Ifrit;Vozhdi Ifritov;;X
+SAU;Ifrit Warlords;Seigneurs de Guerre Ifrits;Signori della Guerra Ifrit;Senores de la Guerra Ifrit;Ifrit-Kriegsherren;Watazkowice Ifritow;Senhores da Guerra Ifrit;Vozhdi Ifritov;;;X
 SCA;Scandinavia;Scandinavie;Scandinavia;Escandinavia;Skandinavien;Skandynawia;;Ñêàíäèíàâèÿ;;;X
 SCH;Switzerland;Suisse;Svizzera;Suiza;Schweiz;Szwajcaria;;Øâåéöàğèÿ;;;X
 SCO;Scotland;Écosse;Scozia;Escocia;Schottland;Szkocja;;Øîòëàíäèÿ;;;X
-SER;New Antioch;Nouvelle Antioche;Nuova Antiochia;Nueva Antioquía;Neu-Antiochia;Nowa Antiochia;Nova Antioquia;Novaya Antiokhiya;;X
+SER;New Antioch;Nouvelle Antioche;Nuova Antiochia;Nueva Antioquía;Neu-Antiochia;Nowa Antiochia;Nova Antioquia;Novaya Antiokhiya;;;X
 SIA;Thailand;Thaïlande;Tailandia;Thailand;Thailand;Tajlandia;;Òàèëàíä;;;X
 SIA36;Siam;Siam;Siam;Siam;Siam;Syjam;;Ñèàì;;;X
 SIB;Siberia;Sibérie;Siberia;Siberia;Sibirien;Syberia;;Ñèáèğü;;;X
@@ -143,7 +143,7 @@ SIK;Xinjiang;Xinjiang;Xinjiang;Xinjiang;Xinjiang;Xinjiang;;Ñèíüöçÿí;;;X
 SLO;Slovakia;Slovaquie;Slovacchia;Eslovaquia;Slowakei;S³owacja;;Ñëîâàêèÿ;;;X
 SLV;Slovenia;Slovénie;Slovenia;Eslovenia;Slowenien;S³owenia;;Ñëîâåíèÿ;;;X
 SOM;Somalia;Somalie;Somalia;Somalia;Somalia;Somalia;;Ñîìàëè;;;X
-SOV;Realm of Samael;Royaume de Samael;Regno di Samael;Reino de Samael;Reich des Samael;Krolestwo Samaela;Reino de Samael;Tsarstvo Samaela;;X
+SOV;Realm of Samael;Royaume de Samael;Regno di Samael;Reino de Samael;Reich des Samael;Krolestwo Samaela;Reino de Samael;Tsarstvo Samaela;;;X
 SPA;Spanish State;État espagnol;Stato Spagnolo;España;Spanischer Staat;Pañstwo Hiszpañskie;;Èñïàíèÿ;;;X
 SPR;Spanish Republic;République d'Espagne;Repubblica Spagnola;República Española;Spanische Republik;Republika Hiszpañska;;Èñïàíñêàÿ ğåñïóáëèêà;;;X
 SUD;Sudan;Soudan;Sudan;Sudán;Sudan;Sudan;;Ñóäàí;;;X
@@ -157,7 +157,7 @@ TRA;Transural Republic;République Transourale;Repubblica Transurale;República Tr
 TRK;Turkmenistan;Turkménistan;Turkmenistan;Turkmenistán;Turkmenistan;Turkmenistan;;Òóğêìåíèñòàí;;;X
 TUN;Tunisia;Tunisie;Tunisia;Túnez;Tunesien;Tunezja;;Òóíèñ;;;X
 TUR;Turkey;Turquie;Turchia;Turquía;Türkei;Turcja;;Òóğöèÿ;;;X
-UKR;Principality of Kyiv;Principaute de Kiev;Principato di Kiev;Principado de Kiev;Fuerstentum Kiew;Ksiestwo Kijowskie;Principado de Kiev;Knyazhestvo Kiyev;;X
+UKR;Principality of Kyiv;Principaute de Kiev;Principato di Kiev;Principado de Kiev;Fuerstentum Kiew;Ksiestwo Kijowskie;Principado de Kiev;Knyazhestvo Kiyev;;;X
 URU;Uruguay;Uruguay;Uruguay;Uruguay;Uruguay;Urugwaj;;Óğóãâàé;;;X
 USA;USA;Etats-Unis;USA;EE. UU.;USA;USA;;ÑØÀ;;;X
 UZB;Uzbekistan;Ouzbékistan;Uzbekistan;Uzbekistán;Usbekistan;Uzbekistan;;Óçáåêèñòàí;;;X
@@ -166,10 +166,10 @@ VIC;Vichy France;Régime de Vichy;Francia di Vichy;Francia de Vichy;Vichy-Frankre
 VIE;State of Vietnam;État du Viêt Nam;Stato del Vietnam;Estado de Vietnam;Staat Vietnam;Pañstwo Wietnamskie;;Âüåòíàì;;;X
 WLL;Wallonia;Wallonie;Vallonia;Valonia;Wallonien;Walonia;;Âàëëîíèÿ;;;X
 YEM;Yemen;Yémen;Yemen;Yemen;Jemen;Jemen;;Éåìåí;;;X
-YUG;Dominion of the Marid;Domination des Marid;Dominio dei Marid;Dominio de los Marid;Herrschaft der Marid;Dominacja Maridow;Dominio dos Marid;Vladeniye Marida;;X
+YUG;Dominion of the Marid;Domination des Marid;Dominio dei Marid;Dominio de los Marid;Herrschaft der Marid;Dominacja Maridow;Dominio dos Marid;Vladeniye Marida;;;X
 U00;User Defined;Paramétrable;Definito dall'utente;Def. por usuario;Benutzerdefiniert;Zdefiniowane przez u¿ytkownika;;Îïğåäåëÿåòñÿ ïîëüçîâàòåëåì;;;X
 U01;Free France;France libre;Francia Libera;Francia Libre;Freies Frankreich;Wolna Francja;;Ñâîáîäíàÿ Ôğàíöèÿ;;;X
-U02;Trench Pilgrims;Pelerins des Tranchees;Pellegrini della Trincea;Peregrinos de la Trinchera;Schuetzengräben-Pilger;Pielgrzymi Okopowi;Peregrinos da Trincheira;Okopnye Palomniki;;X
+U02;Trench Pilgrims;Pelerins des Tranchees;Pellegrini della Trincea;Peregrinos de la Trinchera;Schuetzengräben-Pilger;Pielgrzymi Okopowi;Peregrinos da Trincheira;Okopnye Palomniki;;;X
 U03;Indochinese Union;Union indochinoise;Unione Indocinese;Unión Indochina;Indochinesische Union;Unia Indochiñska;;Èíäîêèòàéñêèé Ñîşç;;;X
 U04;French Mandate for Syria;Mandat français en Syrie;Mandato francese della Siria;Mandato Francés de Siria;Französisches Mandat für Syrien;Francuski mandat Syrii;;Ôğàíöóçñêèé ìàíäàò â Ñèğèè è Ëèâàíå;;;X
 U05;Dutch East Indies;Indes néerlandaises;Indie Orientali Olandesi;Indias Orientales Neerlandesas;Niederländisch-Indien;Holenderskie Indie Wschodnie;;Ãîëëàíäñêàÿ Îñò-Èíäèÿ;;;X
