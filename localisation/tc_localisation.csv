@@ -14,36 +14,18 @@ fascist_party;Infernal Cult;
 neutral_party;Unaligned Council;
 communist_party;Heretic Cabal;
 
-# === COUNTRY NAMES ===
-SER;New Antioch;
-NAT_ADJ;Antiochene;
-
-SWI;Trench Pilgrims;
-TRP_ADJ;Pilgrim;
-
+# === COUNTRY NAMES (vanilla tag -> TC name) ===
 ENG;England;
 ENG_ADJ;English;
 
 PRU;Free State of Prussia;
 PRU_ADJ;Prussian;
 
-TUR;Iron Sultanate;
-IRS_ADJ;Sultanate;
-
-HOL;Hebrew Knights;
-HBK_ADJ;Hebrew;
-
-HON;Éire;
-EIR_ADJ;Irish;
-
-ALB;Kingdom of Alba;
-ALB_ADJ;Alban;
-
 NOR;Kingdom of Norway;
 NOR_ADJ;Norwegian;
 
-PAP;Papal States;
-PAP_ADJ;Papal;
+ALB;Kingdom of Alba;
+ALB_ADJ;Alban;
 
 POL;Polish-Lithuanian Commonwealth;
 POL_ADJ;Polish;
@@ -51,68 +33,71 @@ POL_ADJ;Polish;
 HUN;Kingdom of Hungary;
 HUN_ADJ;Hungarian;
 
+SER;New Antioch;
+SER_ADJ;Antiochene;
+
+U02;Trench Pilgrims;
+U02_ADJ;Pilgrim;
+
+OTT;Iron Sultanate;
+OTT_ADJ;Sultanate;
+
+HOL;Hebrew Knights;
+HOL_ADJ;Hebrew;
+
+HON;Éire;
+HON_ADJ;Irish;
+
+POR;Papal States;
+POR_ADJ;Papal;
+
 RUS;Czardom of Novgorod;
-NOV_ADJ;Novgorodian;
+RUS_ADJ;Novgorodian;
 
 UKR;Principality of Kyiv;
-KYV_ADJ;Kyivan;
-
-NEP;Kingdom of Perm;
-PRM_ADJ;Permian;
-
-MON;Golden Khanate;
-GLK_ADJ;Khanate;
-
-TIB;Tzardom of Siberia;
-SIB_ADJ;Siberian;
+UKR_ADJ;Kyivan;
 
 ROM;Scythians;
-SCY_ADJ;Scythian;
+ROM_ADJ;Scythian;
 
 ETH;Abyssinia;
-ABY_ADJ;Abyssinian;
-
-LIB;Kingdom of Numidia;
-NUM_ADJ;Numidian;
-
-NZL;Golden Empire of Mali;
-MAL_ADJ;Malian;
+ETH_ADJ;Abyssinian;
 
 LUX;Kingdom of Marruecos;
-MOR_ADJ;Marruecian;
-
-AFG;The Unmarked;
-UNM_ADJ;Unmarked;
-
-PER;Domain of Lilith;
-LIL_ADJ;Lilithian;
+LUX_ADJ;Marruecian;
 
 GER;Heretic Legion;
-HRL_ADJ;Legionnaire;
+GER_ADJ;Legionnaire;
 
 BUL;Court of the Harrowed King;
-CRT_ADJ;Harrowed;
+BUL_ADJ;Harrowed;
 
 ITA;Domain of Mammon;
-MAM_ADJ;Mammonite;
+ITA_ADJ;Mammonite;
 
 GRE;Dominion of Beelzebub;
-BLZ_ADJ;Beelzebine;
+GRE_ADJ;Beelzebine;
 
 IRN;Kingdom of Asmodeus;
-ASM_ADJ;Asmodean;
+IRN_ADJ;Asmodean;
 
 SOV;Realm of Samael;
-SAM_ADJ;Samaelite;
+SOV_ADJ;Samaelite;
 
 IRQ;Sultanate of Iblis;
-IBL_ADJ;Iblisian;
+IRQ_ADJ;Iblisian;
 
 YUG;Dominion of the Marid;
-MRD_ADJ;Marid;
+YUG_ADJ;Marid;
 
 SAU;Ifrit Warlords;
-IFR_ADJ;Ifrit;
+SAU_ADJ;Ifrit;
+
+AFG;The Unmarked;
+AFG_ADJ;Unmarked;
+
+PER;Domain of Lilith;
+PER_ADJ;Lilithian;
 
 # === GOVERNMENTS ===
 constitutional_monarchy;Constitutional Monarchy;
@@ -123,18 +108,9 @@ totalitarian_dictatorship;Infernal Dominion;
 tribal_dictatorship;Warlord Council;
 
 # === ALLIANCE NAMES ===
-holy_league;The Holy League;
-infernal_pact;The Infernal Pact;
-unmarked_compact;The Compact of the Unmarked;
-
-# === MISC UI ===
-tc_loading_tip_1;The First Heresy opened the gates of Hell in 1099. Mankind has been fighting back ever since.;
-tc_loading_tip_2;The Iron Sultanate and the Hebrew Knights stand alongside Christian nations against the common Infernal foe.;
-tc_loading_tip_3;Not all demons serve the same master. The warlords of Hell are as fractious as the powers of Heaven.;
-tc_loading_tip_4;Lilith was the first rebel. She may yet rebel again.;
-tc_loading_tip_5;The Marid have sailed corrupted seas since before the First Heresy. Their allegiance to Hell is a choice, not a birthright.;
-tc_loading_tip_6;The Unmarked belong to no side. In the end, that may be their greatest strength.;
+Holy League;The Holy League;
+Infernal Compact;The Infernal Compact;
+The Unmarked;The Compact of the Unmarked;
 
 # === SCENARIO ===
-SCENARIO_1905_GATHERING_DARK;1905 - The Gathering Dark;
-SCENARIO_1905_GATHERING_DARK_DESC;The year is 1905. The First Heresy opened the gates of Hell in 1099. For eight centuries, the armies of the Holy world have held the line against the Infernal advance - barely, at terrible cost, and never with enough. The front is quiet. Something is building in the corrupted zones. The Great Trench War is nine years away. Everything you do before it arrives will determine whether mankind survives it.;
+The Gathering Dark;1905 - The Gathering Dark;
