@@ -1,0 +1,3 @@
+scenario = {
+	filename = "scenarios/1905_gathering_dark.eug"
+}
